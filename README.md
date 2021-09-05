@@ -1,4 +1,4 @@
-- 👋 Oye, Me SquishyDoggo!
+- 👋 Oye, me SquishyDoggo!
 - 👀 I’m interested in the idea that one day my repos will have more than a single view
 - 🌱 I’m currently learning c++ and ncurses, as they form the basis of my latest work in __SquishyDoggo/Cursary__
 
