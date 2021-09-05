@@ -1,6 +1,6 @@
 - 👋 Oye, me SquishyDoggo!
 - 👀 I’m interested in the idea that one day my repos will have more than a single view
-- 🌱 I’m currently learning C++ and ncurses, as they form the basis of my latest work in __SquishyDoggo/Cursary__. Check it out by the way, its free real estate.
+- 🌱 I’m currently learning C++ and ncurses, as they form the basis of my latest work in __SquishyDoggo/Cursary__. Check it out by the way, its free real estate
 
 <!---
 SquishyDoggo/SquishyDoggo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
